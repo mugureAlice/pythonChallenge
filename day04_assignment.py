@@ -64,3 +64,4 @@ print(type( beverage))
 print(type(mirror )) 
 print(type(is_exercising))
 print(type(weight ))
+
